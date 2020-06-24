@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/eric/fsdk-19.1/OBSW/BA-MOCI/.git'
+let g:netrw_dirhist_3='/Users/eric/fsdk/BA-MOCI/build_system/make'
+let g:netrw_dirhist_2='/Users/eric/fsdk/BA-MOCI/BA-COMMON/build/csl_obc/dep/deploy'
+let g:netrw_dirhist_1='/Users/eric/Dropbox/UGA/Sophomore Fall/delug/delug.github.io/assets'

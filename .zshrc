@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="~/.oh-my-zsh"
+export ZSH="/Users/eric/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -101,3 +101,4 @@ source $ZSH/oh-my-zsh.sh
 #
 export PATH="/usr/local/sbin:$PATH:/usr/local/bin"
 export PATH="$PATH:/usr/local/gcc-arm/bin"
+export PATH="$PATH:/opt/local/bin"
